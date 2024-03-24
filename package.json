@@ -1,13 +1,13 @@
 {
    "name": "Venocyber-md",
    "version": "1.0.0",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Kingjux.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Suhail || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Suhail || node lib/smd.js",
-            "stop": "pm2 stop Suhail",
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Kingjux || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name Kingjux || node lib/smd.js",
+            "stop": "pm2 stop Kingjux",
             "heroku-postbuild": "git clone https://github.com/kingjux/Venocyber-md.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
    "author": "VenocyberTech",
