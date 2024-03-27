@@ -113,6 +113,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - [Venocyber Tech](https://github.com/kingjux) 
 
 
+<a href="https://www.buymeacoffee.com/venocyber"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=venocyber&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+--
 
 
 <h2 align="center">  NOTICE
