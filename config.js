@@ -129,7 +129,7 @@ fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename
  
 
 // ========================= [ Disables in V.1.0.0 ] ===============================\\  
-  //style : process.env.STYLE || "2",  // put '1' & "2" here to check bot styles
+  //style : process.env.STYLE || "1",  // put '1' & "2" here to check bot styles
   //readmessage:process.env.READ_MESSAGE|| "false",
   //warncount: process.env.WARN_COUNT || 3,
   //userImages:process.env.USER_IMAGES|| "text",  // SET IMAGE AND VIDEO URL FOR BOT MENUS 
