@@ -112,6 +112,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ### I Am
 - [Venocyber Tech](https://github.com/kingjux) 
 
+# please click the following button  and  fill the details to support my project
+
 
 <a href="https://www.buymeacoffee.com/venocyber"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=venocyber&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
