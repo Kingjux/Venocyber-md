@@ -131,7 +131,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 (https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
  
-  ##* [How To setup Github 1st step](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
+  ##
+  
+  * [How To setup Github 1st step](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
   
  * Deploy on Heroku Video ⇓
  <p align="left">
