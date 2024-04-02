@@ -166,3 +166,15 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 █▀▄▀█ █▀▄
 █░▀░█ █▄▀
 ▀▀ ▀░▀▀
+
+
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+
+<p align="center">
+  <a href="https://github.com/Kingjux/Venocyber-md">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+  </a>
+</p>
+    
+   
+   
