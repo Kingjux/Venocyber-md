@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/Kingjux/Venocyber-md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fee7af11b4edf8eb7c272.jpg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg";
 global.devs = "255625774543";
 global.sudo = process.env.SUDO || "255625774543";
 global.owner = process.env.OWNER_NUMBER || "255625774543";
@@ -38,7 +38,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "https://wasimdscanner-68feefafb737.herokuapp.com/";
+global.scan = "https://venocyberqr-956a7ad0e005.herokuapp.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
