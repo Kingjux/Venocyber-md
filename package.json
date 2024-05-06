@@ -6,7 +6,7 @@
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
-      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
+      "Kingjux ": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
       "start": "pm2 start . --attach --name Kingjux",
       "stop": "pm2 stop Kingjux",
       "heroku-postbuild": "git clone https://github.com/Kingjux/Venocyber-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
