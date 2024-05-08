@@ -25,7 +25,7 @@
   <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
+  <a aria-label="Venocyber-md is free to use" href="" target="_blank">
     <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
