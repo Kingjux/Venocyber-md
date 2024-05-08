@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Venocyber_Tech",
-    "theme": "Venocyber-Md",
+    "AUTHOR": "À𝖑è𝖝 𝕻ì𝖐ù_Tech",
+    "theme": "À𝖑è𝖝 𝕻ì𝖐ù-Md",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,10 +11,10 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Venocyber-md",
+            "botName": "À𝖑è𝖝 𝕻ì𝖐ù-md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Venocyber Tech",
-            "pic1": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg", 
+            "greet2" : "Thanks To À𝖑è𝖝 𝕻ì𝖐ù Tech",
+            "pic1": "https://telegra.ph/file/e6a8e3a633b6b9dd042f6.jpg", 
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
             "emojii" : "🍑", 
@@ -27,21 +27,21 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Venocyber*",
             "mention": " Please mention My Owner",
-            "title": "Venocyber-Md",
-            "footer": "©²⁰²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ \n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
-            "by": "Made by: Venocyber tech",
+            "title": "À𝖑è𝖝 𝕻ì𝖐ù-Md",
+            "footer": "©²⁰²⁴ À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ \n ",
+            "by": "Made by: À𝖑è𝖝 𝕻ì𝖐ù tech",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ or ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ⚠️!",
-            "botAdmin": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ.❗",
-            "owner": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ⚠️",
-            "group": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ or ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ❗",
-            "private": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ⚠️",
-            "bot": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ⚠️",
-            "wait": "©²⁰²⁴ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ✅"
+            "admin": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ or À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ⚠️!",
+            "botAdmin": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ.❗",
+            "owner": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ⚠️",
+            "group": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ or À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ❗",
+            "private": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ⚠️",
+            "bot": "À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ⚠️",
+            "wait": "©²⁰²⁴À𝖑è𝖝 𝕻ì𝖐ù ᴍᴅ✅"
         },
         "error": {
             "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
