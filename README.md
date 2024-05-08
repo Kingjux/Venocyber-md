@@ -28,4 +28,3 @@
 6. *_Deploy FREE on `Codespace,` First see `Codespace tutorial` • https://youtu.be/3NdJb6_1cJM*_
 7. *_Deploy on `HEROKU` • https://dashboard.heroku.com/new?template=https://github.com/Cod3uchiha/TKM-MultiDevice*_
 8. *_Deploy on `Replit` • https://replit.com/github/cod3uchiha/TKM-MultiDevice*_
-9. *_Deploy on `Railway` • https://railway.app/template/GZOvIe?referralCode=wVDLrh*_
