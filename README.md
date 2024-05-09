@@ -153,6 +153,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - [Astropeda Team](https://github.com/Astropeda) for new menu design and some cmds
 - [wasixd](https://github.com/Itxxwasi) for watching and rechecks
 - [Gifted tech](https://github.com/mouricedev) always supporter
+
+---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
