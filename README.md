@@ -143,6 +143,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use Venocyber-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kingjux/Venocyber-md)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
 ### Credits to:
@@ -151,6 +153,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - [Astropeda Team](https://github.com/Astropeda) for new menu design and some cmds
 - [wasixd](https://github.com/Itxxwasi) for watching and rechecks
 - [Gifted tech](https://github.com/mouricedev) always supporter
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 [ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝗩𝗘𝗡𝗢𝗖𝗬𝗕𝗘𝗥 𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
