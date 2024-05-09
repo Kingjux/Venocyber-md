@@ -150,9 +150,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ### Credits to:
 `much thanks to`
 - [Suhail Ser](https://github.com/SuhailTechInfo) for the Base Bot
-- [Astropeda Team](https://github.com/Astropeda) for new menu design and some cmds
+- [`Astropeda Team`](https://github.com/Astropeda) for new menu design and some cmds
 - [wasixd](https://github.com/Itxxwasi) for watching and rechecks
-- [Gifted tech](https://github.com/mouricedev) always supporter
+- [Gifted tech](https://github.com/mouricedevs) always supporter
 
 ---
 
