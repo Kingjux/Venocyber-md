@@ -101,7 +101,7 @@ if scan qr is not working please try using pairing code i am currently working o
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyberqr-956a7ad0e005.herokuapp.com/) or server 2 qr code
     <br>
 <a href="https://venocyberqr-956a7ad0e005.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://venocybersession-92030da961de.herokuapp.com/pair).
+2.  [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair).
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
