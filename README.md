@@ -98,7 +98,7 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyberqr-956a7ad0e005.herokuapp.com/) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
     <br>
 <a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2.  [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair).
