@@ -74,6 +74,10 @@
       "required": false,
       "value": "false"
     },
+     "OPEN_API_KEY": {
+      "description": "put your OPEN_API_KEY here to access chatgpt.",
+      "value": "sk-proj-nzj66xdSVURMqSV8EBvpT3BlbkFJrw4a1XClnXyLUzoVftJV"
+    }, 
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
       "required": false,
