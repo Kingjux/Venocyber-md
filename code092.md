@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> Lamardebreezy-𝗺𝗱 </h1> 
-<p align="center"> Introducing Lamardebreezy-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> LAMAR_DE_BREEZY-MD </h1> 
+<p align="center"> Introducing LAMAR_DE_BREEZY-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Lamardebreezy tech](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+lamardebreezy+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙀😁)](https://github.com/Lamar)
+[![LAMAR_DE_BREEZY TECHh](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+lamardebreezy+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙀😁)](https://github.com/Lamar)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -36,7 +36,7 @@
 
 
 
-<p align="center"> Lamardebreezy-𝗺𝗱 uses
+<p align="center"> LAMAR_DE_BREEZY-MD uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -57,7 +57,7 @@
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flamar%2Flamardebreezy-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://Lamardebreezy-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Lamar/Lamardebreezy-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255769384757&env[MONGODB_URI]&&env[OWNER_NAME]=LAMAR_DE_BREEZY
-    ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Lamardebreezy ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Lamardebreezy&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=LAMAR_DE_BREEZY-tech&env[KOYEB_NAME]=LAMARDEBREEZY-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=yellow"></a>
+    ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=LAMARDEBREEZY ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Lamardebreezy&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=LAMAR_DE_BREEZY-tech&env[KOYEB_NAME]=LAMAR_DE_BREEZY-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=yellow"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=yellow"></a>
 </p>
@@ -88,9 +88,9 @@
 
 
 
-<h3>lamardebreezy-MD Stats</h3>
+<h3>LAMAR_DE_BREEZY-MD stats</h3>
 
-![lamardebreezy-md Stats](https://github-code092-stats.vercel.app/api/pin/?username=lamar&repo=lamardebreezy-md&show_owner=true&theme=dark)
+![LAMAR_DE_BREEZY-MD stats](https://github-code092-stats.vercel.app/api/pin/?username=lamar&repo=lamardebreezy-md&show_owner=true&theme=dark)
 
 
     
@@ -127,7 +127,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [LAMAR DE BREEZY Tech](https://github.com/lamar) 
+- [LAMAR DE BREEZY TECH](https://github.com/lamar) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -181,7 +181,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Lamardebreezy tech](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+lamardebreezy+md;🙏;🙏+✍🏾;🥰)](https://github.com/Lamar)
+[![LAMAR_DE_BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+lamardebreezy+md;🙏;🙏+✍🏾;🥰)](https://github.com/Lamar)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
@@ -204,7 +204,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Lamardebreezy tech](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+lamardebreezy;Admin🥰)](https://github.com/lamar)
+[![LAMAR_DE_BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+lamardebreezy;Admin🥰)](https://github.com/lamar)
 
 <p align="center">
   <a href="https://github.com/Lamar/Lamardebreezy-md">
