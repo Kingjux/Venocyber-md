@@ -1,15 +1,15 @@
 {
-  "name": "Venocyber-md",
+  "name": "venocyber-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["Venocyber-md", "VENOCYBER", "VENOCYBER MD","VENOCYBER MD wabot","Venocyber","Venocybertech"],
+  "logo": "https://github.com/kingjux/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "VENOCYBER-𝐓𝐄𝐂𝐇",
+      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑-𝐓𝐄𝐂𝐇",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "VENOCYBER-𝐌𝐃"
+      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -62,7 +62,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "available"
+      "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -74,10 +74,6 @@
       "required": false,
       "value": "false"
     },
-     "OPEN_API_KEY": {
-      "description": "put your OPEN_API_KEY here to access chatgpt.",
-      "value": "sk-proj-nzj66xdSVURMqSV8EBvpT3BlbkFJrw4a1XClnXyLUzoVftJV"
-    }, 
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
       "required": false,
@@ -111,7 +107,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "VENOCYBER BOTS 🧚",
+      "value": "TECH",
       "required": false
     }
   },
