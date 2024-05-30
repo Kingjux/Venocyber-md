@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> LAMAR_DE_BREEZY-MD </h1> 
-<p align="center"> Introducing LAMAR_DE_BREEZY-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> LAMAR DE BREEZY-MD </h1> 
+<p align="center"> Introducing LAMAR DE BREEZY-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![LAMAR_DE_BREEZY TECHh](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+lamardebreezy+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙀😁)](https://github.com/Lamar)
+[![LAMAR DE BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+lamardebreezy+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙀😁)](https://github.com/Lamar)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -36,7 +36,7 @@
 
 
 
-<p align="center"> LAMAR_DE_BREEZY-MD uses
+<p align="center"> LAMAR DE BREEZY-MD uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -88,9 +88,9 @@
 
 
 
-<h3>LAMAR_DE_BREEZY-MD stats</h3>
+<h3>LAMAR DE BREEZY-MD stats</h3>
 
-![LAMAR_DE_BREEZY-MD stats](https://github-code092-stats.vercel.app/api/pin/?username=lamar&repo=lamardebreezy-md&show_owner=true&theme=dark)
+![LAMAR DE BREEZY-MD stats](https://github-code092-stats.vercel.app/api/pin/?username=lamar&repo=lamardebreezy-md&show_owner=true&theme=dark)
 
 
     
@@ -181,7 +181,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![LAMAR_DE_BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+lamardebreezy+md;🙏;🙏+✍🏾;🥰)](https://github.com/Lamar)
+[![LAMAR DE BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+lamardebreezy+md;🙏;🙏+✍🏾;🥰)](https://github.com/Lamar)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
@@ -204,7 +204,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![LAMAR_DE_BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+lamardebreezy;Admin🥰)](https://github.com/lamar)
+[![LAMAR DE BREEZY TECH](https://code092-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+lamardebreezy;Admin🥰)](https://github.com/lamar)
 
 <p align="center">
   <a href="https://github.com/Lamar/Lamardebreezy-md">
