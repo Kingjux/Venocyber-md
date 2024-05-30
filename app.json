@@ -111,7 +111,7 @@
       "required": false
     }
   },
-  "addons": [{ "plan": "heroku-postgresql:basic" }],
+  "addons": [{ "plan": "heroku-postgresql" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
