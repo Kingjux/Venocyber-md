@@ -1,19 +1,19 @@
 {
    "name": "Venocyber-md",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by kingjux ....",
+   "description": "Multi device whatsapp bot by drizzy ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
-      "Kingjux ": "pm2 start . --deep-monitoring --attach --name Kingjux || node .",
-      "start": "pm2 start . --attach --name Kingjux",
-      "stop": "pm2 stop Kingjux",
-      "heroku-postbuild": "git clone https://github.com/Kingjux/Venocyber-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Kingjux/Venocyber-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name drizzy || node .",
+      "Kingjux ": "pm2 start . --deep-monitoring --attach --name drizzy || node .",
+      "start": "pm2 start . --attach --name drizzy",
+      "stop": "pm2 stop drizzy",
+      "heroku-postbuild": "git clone https://github.com/drizzy959/-.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/drizzy959/-.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "Kingjux",
+   "author": "drizzy959",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Kingjux/Venocyber-md.git"
+      "url": "git+https://github.com/drizzy959/-.git"
    },
    "bugs": {
-      "url": "https://github.com/Kingjux/Venocyber-md/issues"
+      "url": "https://github.com/drizzy959/-/issues"
    },
-   "homepage": "https://github.com/Kingjux/Venocyber-md#readme"
+   "homepage": "https://github.com/drizzy959/-readme"
 }
