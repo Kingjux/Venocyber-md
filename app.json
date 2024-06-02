@@ -1,5 +1,5 @@
 {
-  "name": "Venocyber-md",
+  "name": "DRIZZY RUTO MD",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
   "keywords": ["Venocyber-md", "VENOCYBER", "VENOCYBER MD","VENOCYBER MD wabot","Venocyber","Venocybertech"],
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "VENOCYBER-𝐌𝐃"
+      "value": "𝘋𝘙𝘐𝘡𝘡𝘠 𝘙𝘜𝘛𝘖 𝘔𝘋"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "Africa/Kenya"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255625774543"
+      "value": "254724044880"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,18 +106,18 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "VENOCYBER",
+      "value": "DRIZZY RUTO MD",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "VENOCYBER BOTS 🧚",
+      "value": "DRIZZY RUTO MD",
       "required": false
+      }
+    },
+    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
+    "buildpacks": [
+      { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+      { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    ]
     }
-  },
-  "addons": [{ "plan": "heroku-postgresql:basic" }],
-  "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-  ]
-}
