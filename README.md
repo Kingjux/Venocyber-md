@@ -22,7 +22,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+255689606561?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
@@ -215,3 +215,6 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### UPDATE
+SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255689606561?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
