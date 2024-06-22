@@ -101,7 +101,7 @@ try {
     pattern: "flist",
     category: "chats",
     desc: "get list of auto reply word",
-    use: "[ WASI : how can i help you! ]",
+    use: "[ VENOCYBER : how can i help you! ]",
     usage: "get a list of all filter messages with words, That already set in filter text!",
     fromMe: true,
     filename: __filename
@@ -117,7 +117,7 @@ try {
   });
 } catch (_0x2568c0) {
   if (!global.showUpdate) {
-    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: WASI SER\n⚠️============================⚠️");
+    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: VENOCYBER TECH\n⚠️============================⚠️");
     global.showUpdate = true;
   }
 }
